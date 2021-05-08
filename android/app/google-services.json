@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "511802431984",
+    "firebase_url": "https://app-nhadat-default-rtdb.firebaseio.com",
+    "project_id": "app-nhadat",
+    "storage_bucket": "app-nhadat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511802431984:android:77a4d596dda69b0cb76535",
+        "android_client_info": {
+          "package_name": "com.longkhoa.estate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511802431984-7scqd5bmpne2ct3tf9vnvd0f47mli60a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longkhoa.estate_app",
+            "certificate_hash": "ad332ace67b8d116eccbc417a3d79c71501d9b69"
+          }
+        },
+        {
+          "client_id": "511802431984-9o3bmp6dsmnbkms59fh2qirvofbai8u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longkhoa.estate_app",
+            "certificate_hash": "15e6d4ba6b28137fd23aeef22da8cfc36910f360"
+          }
+        },
+        {
+          "client_id": "511802431984-ocm0m5ghka1dkujt4jrsle8agko863l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longkhoa.estate_app",
+            "certificate_hash": "5d909d9e97d41d8e281f342d1b92b02633757a0a"
+          }
+        },
+        {
+          "client_id": "511802431984-6khd3op9jpepk6rq52ui3het6o2b7llk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJI7aZEV1Du_pIsMXHVXreqD6v83tzJlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511802431984-6khd3op9jpepk6rq52ui3het6o2b7llk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511802431984-k8e3ue9dfod7b5ff9h51276fa992n7js.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.longkhoa.estateApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+com/bottlepay/flutter_libphonenumber/BuildConfig.java
+ com.bottlepay.flutter_libphonenumber.BuildConfig

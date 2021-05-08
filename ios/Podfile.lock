@@ -1,0 +1,235 @@
+PODS:
+  - BSGridCollectionViewLayout (1.2.5)
+  - BSImagePicker (2.10.3):
+    - BSGridCollectionViewLayout (= 1.2.5)
+    - BSImageView (= 1.0.3)
+  - BSImageView (1.0.3)
+  - CryptoSwift (0.15.0)
+  - devicelocale (0.0.1):
+    - Flutter
+  - Firebase/Auth (7.3.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 7.3.0)
+  - Firebase/CoreOnly (7.3.0):
+    - FirebaseCore (= 7.3.0)
+  - firebase_auth (0.20.1):
+    - Firebase/Auth (= 7.3.0)
+    - firebase_core
+    - Flutter
+  - firebase_core (0.7.0):
+    - Firebase/CoreOnly (= 7.3.0)
+    - Flutter
+  - FirebaseAuth (7.3.0):
+    - FirebaseCore (~> 7.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GTMSessionFetcher/Core (~> 1.4)
+  - FirebaseCore (7.3.0):
+    - FirebaseCoreDiagnostics (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Logger (~> 7.0)
+  - FirebaseCoreDiagnostics (7.7.0):
+    - GoogleDataTransport (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Logger (~> 7.0)
+    - nanopb (~> 2.30907.0)
+  - Flutter (1.0.0)
+  - flutter_absolute_path (0.0.1):
+    - Flutter
+  - flutter_libphonenumber (0.0.1):
+    - Flutter
+    - PhoneNumberKit/PhoneNumberKitCore (~> 3.3.3)
+  - flutter_pusher (1.0.2):
+    - Flutter
+    - PusherSwift (= 7.2.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - geocoder (0.0.1):
+    - Flutter
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps (< 3.10)
+  - GoogleDataTransport (8.2.0):
+    - nanopb (~> 2.30907.0)
+  - GoogleMaps (3.9.0):
+    - GoogleMaps/Maps (= 3.9.0)
+  - GoogleMaps/Base (3.9.0)
+  - GoogleMaps/Maps (3.9.0):
+    - GoogleMaps/Base
+  - GoogleUtilities/AppDelegateSwizzler (7.2.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.2.2):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (7.2.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Network (7.2.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.2.2)"
+  - GoogleUtilities/Reachability (7.2.2):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.5.0)
+  - image_picker (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - multi_image_picker (4.7.14):
+    - BSImagePicker (~> 2.10.3)
+    - Flutter
+  - nanopb (2.30907.0):
+    - nanopb/decode (= 2.30907.0)
+    - nanopb/encode (= 2.30907.0)
+  - nanopb/decode (2.30907.0)
+  - nanopb/encode (2.30907.0)
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.3)
+  - PromisesObjC (1.2.12)
+  - PusherSwift (7.2.0):
+    - CryptoSwift (~> 0.9)
+    - ReachabilitySwift (= 4.3.0)
+    - Starscream (~> 3.0.5)
+  - ReachabilitySwift (4.3.0)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - Starscream (3.0.6)
+  - Toast (4.0.0)
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - devicelocale (from `.symlinks/plugins/devicelocale/ios`)
+  - firebase_auth (from `.symlinks/plugins/firebase_auth/ios`)
+  - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_absolute_path (from `.symlinks/plugins/flutter_absolute_path/ios`)
+  - flutter_libphonenumber (from `.symlinks/plugins/flutter_libphonenumber/ios`)
+  - flutter_pusher (from `.symlinks/plugins/flutter_pusher/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - geocoder (from `.symlinks/plugins/geocoder/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - multi_image_picker (from `.symlinks/plugins/multi_image_picker/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - CryptoSwift
+    - Firebase
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FMDB
+    - GoogleDataTransport
+    - GoogleMaps
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - nanopb
+    - PhoneNumberKit
+    - PromisesObjC
+    - PusherSwift
+    - ReachabilitySwift
+    - Starscream
+    - Toast
+
+EXTERNAL SOURCES:
+  devicelocale:
+    :path: ".symlinks/plugins/devicelocale/ios"
+  firebase_auth:
+    :path: ".symlinks/plugins/firebase_auth/ios"
+  firebase_core:
+    :path: ".symlinks/plugins/firebase_core/ios"
+  Flutter:
+    :path: Flutter
+  flutter_absolute_path:
+    :path: ".symlinks/plugins/flutter_absolute_path/ios"
+  flutter_libphonenumber:
+    :path: ".symlinks/plugins/flutter_libphonenumber/ios"
+  flutter_pusher:
+    :path: ".symlinks/plugins/flutter_pusher/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  geocoder:
+    :path: ".symlinks/plugins/geocoder/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  multi_image_picker:
+    :path: ".symlinks/plugins/multi_image_picker/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  BSGridCollectionViewLayout: 333dcb457a5a3bdd9212607ab5756553dcfe06cb
+  BSImagePicker: 07404254f2fcdaf5a2eb403c0f8c337267ce8738
+  BSImageView: a149459433a2687157d034c78e059d30ac7f2544
+  CryptoSwift: 769f58a9e89f64e8796c2e59ce5f002dc81a2438
+  devicelocale: feebbe5e7a30adb8c4f83185de1b50ff19b44f00
+  Firebase: 26223c695fe322633274198cb19dca8cb7e54416
+  firebase_auth: 7220e26fc14a501a63093edc10443de6bca0d7e8
+  firebase_core: 91b27774a52f41f8b58484a75edf71197ac01c59
+  FirebaseAuth: c224a0cf1afa0949bd5c7bfcf154b4f5ce8ddef2
+  FirebaseCore: 4d3c72622ce0e2106aaa07bb4b2935ba2c370972
+  FirebaseCoreDiagnostics: 179bf3831213451c8addd036aca7fcf5492ec154
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_absolute_path: 5adb13678c88f0bdfba527f3851f9543d01dde66
+  flutter_libphonenumber: 6a23afdf063b34d1e53e6dbd6c6bc905d18e8e46
+  flutter_pusher: dc41a8d13038fe79f9bf055b5794b210b725379f
+  fluttertoast: 6122fa75143e992b1d3470f61000f591a798cc58
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  geocoder: 3cfab70531a0b367e917bafe82df4c30f6d4c45a
+  google_maps_flutter: c7f9c73576de1fbe152a227bfd6e6c4ae8088619
+  GoogleDataTransport: 1024b1a4dfbd7a0e92cb20d7e0a6f1fb66b449a4
+  GoogleMaps: 4b5346bddfe6911bb89155d43c903020170523ac
+  GoogleUtilities: 31c5b01f978a70c6cff2afc6272b3f1921614b43
+  GTMSessionFetcher: b3503b20a988c4e20cc189aa798fd18220133f52
+  image_picker: 9c3312491f862b28d21ecd8fdf0ee14e601b3f09
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  multi_image_picker: c068931d08240565e0615fb01437d16984909183
+  nanopb: 59221d7f958fb711001e6a449489542d92ae113e
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  PhoneNumberKit: 4ce83273551c4d2ae10b7361162f4283dd02835f
+  PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
+  PusherSwift: a5369a01e8a9106b4897e9186265af1426726062
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+
+PODFILE CHECKSUM: 0ace87bbdec618bb96bf7d56be218d3a69dc22c9
+
+COCOAPODS: 1.8.0
